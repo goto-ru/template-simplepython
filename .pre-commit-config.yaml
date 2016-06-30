@@ -1,0 +1,9 @@
+-   repo: git://github.com/goto-ru/precommit-yapf
+    sha: '0.10.0'
+    hooks:
+    -   id: yapf
+
+-   repo: git://github.com/goto-ru/precommit-prospector
+    sha: '0.11.7'
+    hooks:
+    -   id: prospector
