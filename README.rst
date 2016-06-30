@@ -14,7 +14,6 @@ Features
 - ``yapf`` for code auto-formatting
 - ``prospector`` for static analysis / linting
 - ``pre-commit`` for ``yapf`` and ``prospector`` pre-commit hooks
-- ``tox`` for virtualenv management
 
 
 .. |goto-ru| image:: https://img.shields.io/badge/GoTo-project-4bb89b.svg
