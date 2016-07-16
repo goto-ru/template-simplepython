@@ -20,6 +20,11 @@ How do I get started with all this goodness??
 
 See ``CONTRIBUTING.rst``. Also note your contributors will be hinted to look at this file while filing an issue or creating a merge request :)
 
+What next?
+==========
+
+You might want to set up CI-style static analysis over at https://landscape.io (it's basically ``prospector`` in the cloud, with a nice UI and - oh my - a shiny badge!).
+
 
 .. |goto-ru| image:: https://img.shields.io/badge/GoTo-project-4bb89b.svg
         :target: https://github.com/goto-ru/
