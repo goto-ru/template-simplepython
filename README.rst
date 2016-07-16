@@ -15,6 +15,11 @@ Features
 - ``prospector`` for static analysis / linting
 - ``pre-commit`` for ``yapf`` and ``prospector`` pre-commit hooks
 
+How do I get started with all this goodness??
+=============================================
+
+See ``CONTRIBUTING.rst``. Also note your contributors will be hinted to look at this file while filing an issue or creating a merge request :)
+
 
 .. |goto-ru| image:: https://img.shields.io/badge/GoTo-project-4bb89b.svg
         :target: https://github.com/goto-ru/
